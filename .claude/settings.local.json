@@ -29,7 +29,8 @@
       "Bash(pnpm install)",
       "Bash(git remote set-url:*)",
       "Bash(del nul)",
-      "Bash(.gitignore)"
+      "Bash(.gitignore)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
